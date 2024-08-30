@@ -1,0 +1,177 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\dinhl\\Documents\\GitHub\\Ocean_apiClass\\VuDinhLam_1721030651\\EntityFrameworkCore_Linq\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C7AFF67C-0310-4585-8333-BD2FB4F6277E}|EntityFrameworkCore_Linq.csproj|c:\\users\\dinhl\\documents\\github\\ocean_apiclass\\vudinhlam_1721030651\\entityframeworkcore_linq\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C7AFF67C-0310-4585-8333-BD2FB4F6277E}|EntityFrameworkCore_Linq.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C7AFF67C-0310-4585-8333-BD2FB4F6277E}|EntityFrameworkCore_Linq.csproj|c:\\users\\dinhl\\documents\\github\\ocean_apiclass\\vudinhlam_1721030651\\entityframeworkcore_linq\\controllers\\entityframeworkcore_linq.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C7AFF67C-0310-4585-8333-BD2FB4F6277E}|EntityFrameworkCore_Linq.csproj|solutionrelative:controllers\\entityframeworkcore_linq.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C7AFF67C-0310-4585-8333-BD2FB4F6277E}|EntityFrameworkCore_Linq.csproj|c:\\users\\dinhl\\documents\\github\\ocean_apiclass\\vudinhlam_1721030651\\entityframeworkcore_linq\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C7AFF67C-0310-4585-8333-BD2FB4F6277E}|EntityFrameworkCore_Linq.csproj|solutionrelative:models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C7AFF67C-0310-4585-8333-BD2FB4F6277E}|EntityFrameworkCore_Linq.csproj|c:\\users\\dinhl\\documents\\github\\ocean_apiclass\\vudinhlam_1721030651\\entityframeworkcore_linq\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C7AFF67C-0310-4585-8333-BD2FB4F6277E}|EntityFrameworkCore_Linq.csproj|solutionrelative:models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C7AFF67C-0310-4585-8333-BD2FB4F6277E}|EntityFrameworkCore_Linq.csproj|c:\\users\\dinhl\\documents\\github\\ocean_apiclass\\vudinhlam_1721030651\\entityframeworkcore_linq\\models\\supplier.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C7AFF67C-0310-4585-8333-BD2FB4F6277E}|EntityFrameworkCore_Linq.csproj|solutionrelative:models\\supplier.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C7AFF67C-0310-4585-8333-BD2FB4F6277E}|EntityFrameworkCore_Linq.csproj|c:\\users\\dinhl\\documents\\github\\ocean_apiclass\\vudinhlam_1721030651\\entityframeworkcore_linq\\models\\efcorelinqdemocontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C7AFF67C-0310-4585-8333-BD2FB4F6277E}|EntityFrameworkCore_Linq.csproj|solutionrelative:models\\efcorelinqdemocontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C7AFF67C-0310-4585-8333-BD2FB4F6277E}|EntityFrameworkCore_Linq.csproj|c:\\users\\dinhl\\documents\\github\\ocean_apiclass\\vudinhlam_1721030651\\entityframeworkcore_linq\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C7AFF67C-0310-4585-8333-BD2FB4F6277E}|EntityFrameworkCore_Linq.csproj|solutionrelative:controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3db98ce8-14f0-4b05-9b6a-b9dbe8fa94ab}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{74946827-37a0-11d2-a273-00c04f8ef4ff}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "EntityFrameworkCore_Linq.cs",
+              "DocumentMoniker": "C:\\Users\\dinhl\\Documents\\GitHub\\Ocean_apiClass\\VuDinhLam_1721030651\\EntityFrameworkCore_Linq\\Controllers\\EntityFrameworkCore_Linq.cs",
+              "RelativeDocumentMoniker": "Controllers\\EntityFrameworkCore_Linq.cs",
+              "ToolTip": "C:\\Users\\dinhl\\Documents\\GitHub\\Ocean_apiClass\\VuDinhLam_1721030651\\EntityFrameworkCore_Linq\\Controllers\\EntityFrameworkCore_Linq.cs",
+              "RelativeToolTip": "Controllers\\EntityFrameworkCore_Linq.cs",
+              "ViewState": "AQIAACEBAAAAAAAAAAAAwCoBAAA4AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-30T07:58:38.827Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\dinhl\\Documents\\GitHub\\Ocean_apiClass\\VuDinhLam_1721030651\\EntityFrameworkCore_Linq\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\dinhl\\Documents\\GitHub\\Ocean_apiClass\\VuDinhLam_1721030651\\EntityFrameworkCore_Linq\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-30T07:56:40.597Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Supplier.cs",
+              "DocumentMoniker": "C:\\Users\\dinhl\\Documents\\GitHub\\Ocean_apiClass\\VuDinhLam_1721030651\\EntityFrameworkCore_Linq\\Models\\Supplier.cs",
+              "RelativeDocumentMoniker": "Models\\Supplier.cs",
+              "ToolTip": "C:\\Users\\dinhl\\Documents\\GitHub\\Ocean_apiClass\\VuDinhLam_1721030651\\EntityFrameworkCore_Linq\\Models\\Supplier.cs",
+              "RelativeToolTip": "Models\\Supplier.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-30T07:53:57.871Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\dinhl\\Documents\\GitHub\\Ocean_apiClass\\VuDinhLam_1721030651\\EntityFrameworkCore_Linq\\Models\\Product.cs",
+              "RelativeDocumentMoniker": "Models\\Product.cs",
+              "ToolTip": "C:\\Users\\dinhl\\Documents\\GitHub\\Ocean_apiClass\\VuDinhLam_1721030651\\EntityFrameworkCore_Linq\\Models\\Product.cs",
+              "RelativeToolTip": "Models\\Product.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAxwBcAAAAzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-30T07:53:57.312Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "EfcoreLinqDemoContext.cs",
+              "DocumentMoniker": "C:\\Users\\dinhl\\Documents\\GitHub\\Ocean_apiClass\\VuDinhLam_1721030651\\EntityFrameworkCore_Linq\\Models\\EfcoreLinqDemoContext.cs",
+              "RelativeDocumentMoniker": "Models\\EfcoreLinqDemoContext.cs",
+              "ToolTip": "C:\\Users\\dinhl\\Documents\\GitHub\\Ocean_apiClass\\VuDinhLam_1721030651\\EntityFrameworkCore_Linq\\Models\\EfcoreLinqDemoContext.cs",
+              "RelativeToolTip": "Models\\EfcoreLinqDemoContext.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAQwBgAAACeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-30T07:53:49.77Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Category.cs",
+              "DocumentMoniker": "C:\\Users\\dinhl\\Documents\\GitHub\\Ocean_apiClass\\VuDinhLam_1721030651\\EntityFrameworkCore_Linq\\Models\\Category.cs",
+              "RelativeDocumentMoniker": "Models\\Category.cs",
+              "ToolTip": "C:\\Users\\dinhl\\Documents\\GitHub\\Ocean_apiClass\\VuDinhLam_1721030651\\EntityFrameworkCore_Linq\\Models\\Category.cs",
+              "RelativeToolTip": "Models\\Category.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-30T07:53:49.28Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "WeatherForecastController.cs",
+              "DocumentMoniker": "C:\\Users\\dinhl\\Documents\\GitHub\\Ocean_apiClass\\VuDinhLam_1721030651\\EntityFrameworkCore_Linq\\Controllers\\WeatherForecastController.cs",
+              "RelativeDocumentMoniker": "Controllers\\WeatherForecastController.cs",
+              "ToolTip": "C:\\Users\\dinhl\\Documents\\GitHub\\Ocean_apiClass\\VuDinhLam_1721030651\\EntityFrameworkCore_Linq\\Controllers\\WeatherForecastController.cs",
+              "RelativeToolTip": "Controllers\\WeatherForecastController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-30T07:53:17.184Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 1642,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{4a9b7e51-aa16-11d0-a8c5-00a0c921a4d2}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

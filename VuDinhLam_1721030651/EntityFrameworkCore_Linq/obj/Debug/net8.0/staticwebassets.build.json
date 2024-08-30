@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "4LjfYceLVRThTa0Mx4O7ZnqGJM+JqEtVR0o2h6QJ6FQ=",
+  "Source": "EntityFrameworkCore_Linq",
+  "BasePath": "_content/EntityFrameworkCore_Linq",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

@@ -1,0 +1,8 @@
+﻿@VuDinhLam_1721030651_HostAddress = https://localhost:7229
+
+GET {{VuDinhLam_1721030651_HostAddress}}/todoitems
+Content-Type: application/json
+{
+
+}
+###
