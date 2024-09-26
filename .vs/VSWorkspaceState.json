@@ -1,8 +1,10 @@
 {
   "ExpandedNodes": [
     "",
-    "\\.github\\workflows"
+    "\\VuDinhLam_1721030651",
+    "\\VuDinhLam_1721030651\\ControllerAPI",
+    "\\VuDinhLam_1721030651\\EntityFrameworkCore_Linq"
   ],
-  "SelectedNode": "\\LICENSE",
+  "SelectedNode": "\\VuDinhLam_1721030651\\EntityFrameworkCore_Linq\\Program.cs",
   "PreviewInSolutionExplorer": false
 }

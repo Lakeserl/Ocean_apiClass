@@ -1,0 +1,8 @@
+C:\Users\dinhl\Documents\Github\Ocean_apiClass\Bai4_VuDinhLam_1721030651\Bai4_VuDinhLam_1721030651\obj\Debug\net8.0\Bai4_VuDinhLam_1721030651.csproj.AssemblyReference.cache
+C:\Users\dinhl\Documents\Github\Ocean_apiClass\Bai4_VuDinhLam_1721030651\Bai4_VuDinhLam_1721030651\obj\Debug\net8.0\Bai4_VuDinhLam_1721030651.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dinhl\Documents\Github\Ocean_apiClass\Bai4_VuDinhLam_1721030651\Bai4_VuDinhLam_1721030651\obj\Debug\net8.0\Bai4_VuDinhLam_1721030651.AssemblyInfoInputs.cache
+C:\Users\dinhl\Documents\Github\Ocean_apiClass\Bai4_VuDinhLam_1721030651\Bai4_VuDinhLam_1721030651\obj\Debug\net8.0\Bai4_VuDinhLam_1721030651.AssemblyInfo.cs
+C:\Users\dinhl\Documents\Github\Ocean_apiClass\Bai4_VuDinhLam_1721030651\Bai4_VuDinhLam_1721030651\obj\Debug\net8.0\Bai4_VuDinhLam_1721030651.csproj.CoreCompileInputs.cache
+C:\Users\dinhl\Documents\Github\Ocean_apiClass\Bai4_VuDinhLam_1721030651\Bai4_VuDinhLam_1721030651\obj\Debug\net8.0\Bai4_VuDinhLam_1721030651.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\dinhl\Documents\Github\Ocean_apiClass\Bai4_VuDinhLam_1721030651\Bai4_VuDinhLam_1721030651\obj\Debug\net8.0\Bai4_VuDinhLam_1721030651.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\dinhl\Documents\Github\Ocean_apiClass\Bai4_VuDinhLam_1721030651\Bai4_VuDinhLam_1721030651\obj\Debug\net8.0\Bai4_VuDinhLam_1721030651.sourcelink.json

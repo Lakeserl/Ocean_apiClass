@@ -1,0 +1,6 @@
+@Bai4_1721030651_VuDinhLam_HostAddress = http://localhost:5137
+
+GET {{Bai4_1721030651_VuDinhLam_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

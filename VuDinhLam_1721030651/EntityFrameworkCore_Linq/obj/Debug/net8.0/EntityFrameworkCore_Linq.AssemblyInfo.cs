@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("EntityFrameworkCore_Linq")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+caaea54065fb850d62e86acd36be13dbf004bba9")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+0bf57d9d39ac3e0b6f82b14586523df01cc80438")]
 [assembly: System.Reflection.AssemblyProductAttribute("EntityFrameworkCore_Linq")]
 [assembly: System.Reflection.AssemblyTitleAttribute("EntityFrameworkCore_Linq")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
