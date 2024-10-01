@@ -1,0 +1,6 @@
+@Bai4_HomeWork2_1721030651_HostAddress = http://localhost:5283
+
+GET {{Bai4_HomeWork2_1721030651_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

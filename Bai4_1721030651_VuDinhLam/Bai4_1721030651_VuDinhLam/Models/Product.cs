@@ -36,7 +36,7 @@ public partial class Product
     public virtual Supplier? Supplier { get; set; }
 }
 
-public partial class ProductDTO
+public partial class ProductDTO 
 {
     public int Id { get; set; }
 
@@ -63,3 +63,4 @@ public partial class ProductDTO
     public int? Status { get; set; }
 
 }
+

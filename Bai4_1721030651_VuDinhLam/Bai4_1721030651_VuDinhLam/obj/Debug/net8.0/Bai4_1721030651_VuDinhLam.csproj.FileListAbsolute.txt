@@ -5,6 +5,7 @@ C:\Users\dinhl\Documents\Github\Ocean_apiClass\Bai4_1721030651_VuDinhLam\Bai4_17
 C:\Users\dinhl\Documents\Github\Ocean_apiClass\Bai4_1721030651_VuDinhLam\Bai4_1721030651_VuDinhLam\bin\Debug\net8.0\Bai4_1721030651_VuDinhLam.runtimeconfig.json
 C:\Users\dinhl\Documents\Github\Ocean_apiClass\Bai4_1721030651_VuDinhLam\Bai4_1721030651_VuDinhLam\bin\Debug\net8.0\Bai4_1721030651_VuDinhLam.dll
 C:\Users\dinhl\Documents\Github\Ocean_apiClass\Bai4_1721030651_VuDinhLam\Bai4_1721030651_VuDinhLam\bin\Debug\net8.0\Bai4_1721030651_VuDinhLam.pdb
+C:\Users\dinhl\Documents\Github\Ocean_apiClass\Bai4_1721030651_VuDinhLam\Bai4_1721030651_VuDinhLam\bin\Debug\net8.0\AutoMapper.dll
 C:\Users\dinhl\Documents\Github\Ocean_apiClass\Bai4_1721030651_VuDinhLam\Bai4_1721030651_VuDinhLam\bin\Debug\net8.0\Azure.Core.dll
 C:\Users\dinhl\Documents\Github\Ocean_apiClass\Bai4_1721030651_VuDinhLam\Bai4_1721030651_VuDinhLam\bin\Debug\net8.0\Azure.Identity.dll
 C:\Users\dinhl\Documents\Github\Ocean_apiClass\Bai4_1721030651_VuDinhLam\Bai4_1721030651_VuDinhLam\bin\Debug\net8.0\Humanizer.dll
@@ -32,7 +33,6 @@ C:\Users\dinhl\Documents\Github\Ocean_apiClass\Bai4_1721030651_VuDinhLam\Bai4_17
 C:\Users\dinhl\Documents\Github\Ocean_apiClass\Bai4_1721030651_VuDinhLam\Bai4_1721030651_VuDinhLam\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
 C:\Users\dinhl\Documents\Github\Ocean_apiClass\Bai4_1721030651_VuDinhLam\Bai4_1721030651_VuDinhLam\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
 C:\Users\dinhl\Documents\Github\Ocean_apiClass\Bai4_1721030651_VuDinhLam\Bai4_1721030651_VuDinhLam\bin\Debug\net8.0\Mono.TextTemplating.dll
-C:\Users\dinhl\Documents\Github\Ocean_apiClass\Bai4_1721030651_VuDinhLam\Bai4_1721030651_VuDinhLam\bin\Debug\net8.0\Newtonsoft.Json.dll
 C:\Users\dinhl\Documents\Github\Ocean_apiClass\Bai4_1721030651_VuDinhLam\Bai4_1721030651_VuDinhLam\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
 C:\Users\dinhl\Documents\Github\Ocean_apiClass\Bai4_1721030651_VuDinhLam\Bai4_1721030651_VuDinhLam\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
 C:\Users\dinhl\Documents\Github\Ocean_apiClass\Bai4_1721030651_VuDinhLam\Bai4_1721030651_VuDinhLam\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
@@ -136,3 +136,4 @@ C:\Users\dinhl\Documents\Github\Ocean_apiClass\Bai4_1721030651_VuDinhLam\Bai4_17
 C:\Users\dinhl\Documents\Github\Ocean_apiClass\Bai4_1721030651_VuDinhLam\Bai4_1721030651_VuDinhLam\obj\Debug\net8.0\Bai4_1721030651_VuDinhLam.pdb
 C:\Users\dinhl\Documents\Github\Ocean_apiClass\Bai4_1721030651_VuDinhLam\Bai4_1721030651_VuDinhLam\obj\Debug\net8.0\Bai4_1721030651_VuDinhLam.genruntimeconfig.cache
 C:\Users\dinhl\Documents\Github\Ocean_apiClass\Bai4_1721030651_VuDinhLam\Bai4_1721030651_VuDinhLam\obj\Debug\net8.0\ref\Bai4_1721030651_VuDinhLam.dll
+C:\Users\dinhl\Documents\Github\Ocean_apiClass\Bai4_1721030651_VuDinhLam\Bai4_1721030651_VuDinhLam\bin\Debug\net8.0\FluentAssertions.dll

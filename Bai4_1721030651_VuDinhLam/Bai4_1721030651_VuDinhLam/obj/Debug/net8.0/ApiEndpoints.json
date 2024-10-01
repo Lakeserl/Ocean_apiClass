@@ -1,0 +1,181 @@
+[
+  {
+    "ContainingType": "Bai4_1721030651_VuDinhLam.Controllers.GenericReposittoryController",
+    "Method": "GetAllProducts",
+    "RelativePath": "api/GenericReposittory",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Bai4_1721030651_VuDinhLam.Controllers.GenericReposittoryController",
+    "Method": "CreateProduct",
+    "RelativePath": "api/GenericReposittory",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "product",
+        "Type": "Bai4_1721030651_VuDinhLam.Models.Product",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Bai4_1721030651_VuDinhLam.Controllers.GenericReposittoryController",
+    "Method": "UpdateProduct",
+    "RelativePath": "api/GenericReposittory/{id}",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      },
+      {
+        "Name": "product",
+        "Type": "Bai4_1721030651_VuDinhLam.Models.Product",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Bai4_1721030651_VuDinhLam.Controllers.GenericReposittoryController",
+    "Method": "DeleteProduct",
+    "RelativePath": "api/GenericReposittory/{id}",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Bai4_1721030651_VuDinhLam.Controllers.GenericReposittoryController",
+    "Method": "GetProductById",
+    "RelativePath": "api/GenericReposittory/id",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Bai4_1721030651_VuDinhLam.Controllers.SimpleRepositoryController",
+    "Method": "GetAll",
+    "RelativePath": "api/SimpleRepository",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Bai4_1721030651_VuDinhLam.Controllers.SimpleRepositoryController",
+    "Method": "Create",
+    "RelativePath": "api/SimpleRepository",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "productDto",
+        "Type": "Bai4_1721030651_VuDinhLam.Models.ProductDTO",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Bai4_1721030651_VuDinhLam.Controllers.SimpleRepositoryController",
+    "Method": "GetById",
+    "RelativePath": "api/SimpleRepository/{id}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Bai4_1721030651_VuDinhLam.Controllers.SimpleRepositoryController",
+    "Method": "Update",
+    "RelativePath": "api/SimpleRepository/{id}",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      },
+      {
+        "Name": "productDto",
+        "Type": "Bai4_1721030651_VuDinhLam.Models.ProductDTO",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Bai4_1721030651_VuDinhLam.Controllers.SimpleRepositoryController",
+    "Method": "Delete",
+    "RelativePath": "api/SimpleRepository/{id}",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Bai4_1721030651_VuDinhLam.Controllers.WeatherForecastController",
+    "Method": "Get",
+    "RelativePath": "WeatherForecast",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": [
+      {
+        "Type": "System.Collections.Generic.IEnumerable\u00601[[Bai4_1721030651_VuDinhLam.WeatherForecast, Bai4_1721030651_VuDinhLam, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ],
+    "EndpointName": "GetWeatherForecast"
+  }
+]

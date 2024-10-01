@@ -1,0 +1,15 @@
+{
+  "version": "0.2.1",
+  "tasks": [
+    {
+      "taskLabel": "task-Bai4_1721030651_VuDinhLam",
+      "appliesTo": "Bai4_1721030651_VuDinhLam.sln",
+      "type": "launch"
+    },
+    {
+      "taskLabel": "task-Bai4_1721030651_VuDinhLam",
+      "appliesTo": "Bai4_1721030651_VuDinhLam.sln",
+      "type": "launch"
+    }
+  ]
+}

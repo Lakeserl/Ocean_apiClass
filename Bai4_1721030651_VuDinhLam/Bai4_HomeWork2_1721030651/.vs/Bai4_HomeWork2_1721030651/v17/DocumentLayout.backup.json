@@ -1,0 +1,601 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\dinhl\\Documents\\Github\\Ocean_apiClass\\Bai4_HomeWork2_1721030651\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{AA887F39-E2A0-4BB1-91C7-6CF40AB532FB}|Bai4_HomeWork2_1721030651\\Bai4_HomeWork2_1721030651.csproj|c:\\users\\dinhl\\documents\\github\\ocean_apiclass\\bai4_homework2_1721030651\\bai4_homework2_1721030651\\repository\\bai2\\first_approach\\wardservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AA887F39-E2A0-4BB1-91C7-6CF40AB532FB}|Bai4_HomeWork2_1721030651\\Bai4_HomeWork2_1721030651.csproj|solutionrelative:bai4_homework2_1721030651\\repository\\bai2\\first_approach\\wardservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AA887F39-E2A0-4BB1-91C7-6CF40AB532FB}|Bai4_HomeWork2_1721030651\\Bai4_HomeWork2_1721030651.csproj|c:\\users\\dinhl\\documents\\github\\ocean_apiclass\\bai4_homework2_1721030651\\bai4_homework2_1721030651\\repository\\bai2\\first_approach\\provinceservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AA887F39-E2A0-4BB1-91C7-6CF40AB532FB}|Bai4_HomeWork2_1721030651\\Bai4_HomeWork2_1721030651.csproj|solutionrelative:bai4_homework2_1721030651\\repository\\bai2\\first_approach\\provinceservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AA887F39-E2A0-4BB1-91C7-6CF40AB532FB}|Bai4_HomeWork2_1721030651\\Bai4_HomeWork2_1721030651.csproj|c:\\users\\dinhl\\documents\\github\\ocean_apiclass\\bai4_homework2_1721030651\\bai4_homework2_1721030651\\repository\\bai2\\first_approach\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AA887F39-E2A0-4BB1-91C7-6CF40AB532FB}|Bai4_HomeWork2_1721030651\\Bai4_HomeWork2_1721030651.csproj|solutionrelative:bai4_homework2_1721030651\\repository\\bai2\\first_approach\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AA887F39-E2A0-4BB1-91C7-6CF40AB532FB}|Bai4_HomeWork2_1721030651\\Bai4_HomeWork2_1721030651.csproj|c:\\users\\dinhl\\documents\\github\\ocean_apiclass\\bai4_homework2_1721030651\\bai4_homework2_1721030651\\repository\\bai2\\first_approach\\districtservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AA887F39-E2A0-4BB1-91C7-6CF40AB532FB}|Bai4_HomeWork2_1721030651\\Bai4_HomeWork2_1721030651.csproj|solutionrelative:bai4_homework2_1721030651\\repository\\bai2\\first_approach\\districtservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AA887F39-E2A0-4BB1-91C7-6CF40AB532FB}|Bai4_HomeWork2_1721030651\\Bai4_HomeWork2_1721030651.csproj|c:\\users\\dinhl\\documents\\github\\ocean_apiclass\\bai4_homework2_1721030651\\bai4_homework2_1721030651\\repository\\bai2\\first_approach\\countryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AA887F39-E2A0-4BB1-91C7-6CF40AB532FB}|Bai4_HomeWork2_1721030651\\Bai4_HomeWork2_1721030651.csproj|solutionrelative:bai4_homework2_1721030651\\repository\\bai2\\first_approach\\countryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AA887F39-E2A0-4BB1-91C7-6CF40AB532FB}|Bai4_HomeWork2_1721030651\\Bai4_HomeWork2_1721030651.csproj|c:\\users\\dinhl\\documents\\github\\ocean_apiclass\\bai4_homework2_1721030651\\bai4_homework2_1721030651\\repository\\bai2\\second_approach\\igenericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AA887F39-E2A0-4BB1-91C7-6CF40AB532FB}|Bai4_HomeWork2_1721030651\\Bai4_HomeWork2_1721030651.csproj|solutionrelative:bai4_homework2_1721030651\\repository\\bai2\\second_approach\\igenericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AA887F39-E2A0-4BB1-91C7-6CF40AB532FB}|Bai4_HomeWork2_1721030651\\Bai4_HomeWork2_1721030651.csproj|c:\\users\\dinhl\\documents\\github\\ocean_apiclass\\bai4_homework2_1721030651\\bai4_homework2_1721030651\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AA887F39-E2A0-4BB1-91C7-6CF40AB532FB}|Bai4_HomeWork2_1721030651\\Bai4_HomeWork2_1721030651.csproj|solutionrelative:bai4_homework2_1721030651\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AA887F39-E2A0-4BB1-91C7-6CF40AB532FB}|Bai4_HomeWork2_1721030651\\Bai4_HomeWork2_1721030651.csproj|c:\\users\\dinhl\\documents\\github\\ocean_apiclass\\bai4_homework2_1721030651\\bai4_homework2_1721030651\\controllers\\bai2\\simple\\banktypecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AA887F39-E2A0-4BB1-91C7-6CF40AB532FB}|Bai4_HomeWork2_1721030651\\Bai4_HomeWork2_1721030651.csproj|solutionrelative:bai4_homework2_1721030651\\controllers\\bai2\\simple\\banktypecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AA887F39-E2A0-4BB1-91C7-6CF40AB532FB}|Bai4_HomeWork2_1721030651\\Bai4_HomeWork2_1721030651.csproj|c:\\users\\dinhl\\documents\\github\\ocean_apiclass\\bai4_homework2_1721030651\\bai4_homework2_1721030651\\controllers\\bai2\\simple\\bankcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AA887F39-E2A0-4BB1-91C7-6CF40AB532FB}|Bai4_HomeWork2_1721030651\\Bai4_HomeWork2_1721030651.csproj|solutionrelative:bai4_homework2_1721030651\\controllers\\bai2\\simple\\bankcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AA887F39-E2A0-4BB1-91C7-6CF40AB532FB}|Bai4_HomeWork2_1721030651\\Bai4_HomeWork2_1721030651.csproj|c:\\users\\dinhl\\documents\\github\\ocean_apiclass\\bai4_homework2_1721030651\\bai4_homework2_1721030651\\repository\\bai2\\simple\\ibanktypeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AA887F39-E2A0-4BB1-91C7-6CF40AB532FB}|Bai4_HomeWork2_1721030651\\Bai4_HomeWork2_1721030651.csproj|solutionrelative:bai4_homework2_1721030651\\repository\\bai2\\simple\\ibanktypeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AA887F39-E2A0-4BB1-91C7-6CF40AB532FB}|Bai4_HomeWork2_1721030651\\Bai4_HomeWork2_1721030651.csproj|c:\\users\\dinhl\\documents\\github\\ocean_apiclass\\bai4_homework2_1721030651\\bai4_homework2_1721030651\\repository\\bai2\\simple\\ibankservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AA887F39-E2A0-4BB1-91C7-6CF40AB532FB}|Bai4_HomeWork2_1721030651\\Bai4_HomeWork2_1721030651.csproj|solutionrelative:bai4_homework2_1721030651\\repository\\bai2\\simple\\ibankservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AA887F39-E2A0-4BB1-91C7-6CF40AB532FB}|Bai4_HomeWork2_1721030651\\Bai4_HomeWork2_1721030651.csproj|c:\\users\\dinhl\\documents\\github\\ocean_apiclass\\bai4_homework2_1721030651\\bai4_homework2_1721030651\\controllers\\bai2\\second_approach\\schoolcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AA887F39-E2A0-4BB1-91C7-6CF40AB532FB}|Bai4_HomeWork2_1721030651\\Bai4_HomeWork2_1721030651.csproj|solutionrelative:bai4_homework2_1721030651\\controllers\\bai2\\second_approach\\schoolcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AA887F39-E2A0-4BB1-91C7-6CF40AB532FB}|Bai4_HomeWork2_1721030651\\Bai4_HomeWork2_1721030651.csproj|c:\\users\\dinhl\\documents\\github\\ocean_apiclass\\bai4_homework2_1721030651\\bai4_homework2_1721030651\\controllers\\bai2\\second_approach\\religioncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AA887F39-E2A0-4BB1-91C7-6CF40AB532FB}|Bai4_HomeWork2_1721030651\\Bai4_HomeWork2_1721030651.csproj|solutionrelative:bai4_homework2_1721030651\\controllers\\bai2\\second_approach\\religioncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AA887F39-E2A0-4BB1-91C7-6CF40AB532FB}|Bai4_HomeWork2_1721030651\\Bai4_HomeWork2_1721030651.csproj|c:\\users\\dinhl\\documents\\github\\ocean_apiclass\\bai4_homework2_1721030651\\bai4_homework2_1721030651\\controllers\\bai2\\second_approach\\folkcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AA887F39-E2A0-4BB1-91C7-6CF40AB532FB}|Bai4_HomeWork2_1721030651\\Bai4_HomeWork2_1721030651.csproj|solutionrelative:bai4_homework2_1721030651\\controllers\\bai2\\second_approach\\folkcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AA887F39-E2A0-4BB1-91C7-6CF40AB532FB}|Bai4_HomeWork2_1721030651\\Bai4_HomeWork2_1721030651.csproj|c:\\users\\dinhl\\documents\\github\\ocean_apiclass\\bai4_homework2_1721030651\\bai4_homework2_1721030651\\models\\ward.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AA887F39-E2A0-4BB1-91C7-6CF40AB532FB}|Bai4_HomeWork2_1721030651\\Bai4_HomeWork2_1721030651.csproj|solutionrelative:bai4_homework2_1721030651\\models\\ward.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AA887F39-E2A0-4BB1-91C7-6CF40AB532FB}|Bai4_HomeWork2_1721030651\\Bai4_HomeWork2_1721030651.csproj|c:\\users\\dinhl\\documents\\github\\ocean_apiclass\\bai4_homework2_1721030651\\bai4_homework2_1721030651\\models\\school.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AA887F39-E2A0-4BB1-91C7-6CF40AB532FB}|Bai4_HomeWork2_1721030651\\Bai4_HomeWork2_1721030651.csproj|solutionrelative:bai4_homework2_1721030651\\models\\school.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AA887F39-E2A0-4BB1-91C7-6CF40AB532FB}|Bai4_HomeWork2_1721030651\\Bai4_HomeWork2_1721030651.csproj|c:\\users\\dinhl\\documents\\github\\ocean_apiclass\\bai4_homework2_1721030651\\bai4_homework2_1721030651\\models\\religion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AA887F39-E2A0-4BB1-91C7-6CF40AB532FB}|Bai4_HomeWork2_1721030651\\Bai4_HomeWork2_1721030651.csproj|solutionrelative:bai4_homework2_1721030651\\models\\religion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AA887F39-E2A0-4BB1-91C7-6CF40AB532FB}|Bai4_HomeWork2_1721030651\\Bai4_HomeWork2_1721030651.csproj|c:\\users\\dinhl\\documents\\github\\ocean_apiclass\\bai4_homework2_1721030651\\bai4_homework2_1721030651\\models\\province.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AA887F39-E2A0-4BB1-91C7-6CF40AB532FB}|Bai4_HomeWork2_1721030651\\Bai4_HomeWork2_1721030651.csproj|solutionrelative:bai4_homework2_1721030651\\models\\province.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AA887F39-E2A0-4BB1-91C7-6CF40AB532FB}|Bai4_HomeWork2_1721030651\\Bai4_HomeWork2_1721030651.csproj|c:\\users\\dinhl\\documents\\github\\ocean_apiclass\\bai4_homework2_1721030651\\bai4_homework2_1721030651\\models\\folk.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AA887F39-E2A0-4BB1-91C7-6CF40AB532FB}|Bai4_HomeWork2_1721030651\\Bai4_HomeWork2_1721030651.csproj|solutionrelative:bai4_homework2_1721030651\\models\\folk.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AA887F39-E2A0-4BB1-91C7-6CF40AB532FB}|Bai4_HomeWork2_1721030651\\Bai4_HomeWork2_1721030651.csproj|c:\\users\\dinhl\\documents\\github\\ocean_apiclass\\bai4_homework2_1721030651\\bai4_homework2_1721030651\\models\\district.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AA887F39-E2A0-4BB1-91C7-6CF40AB532FB}|Bai4_HomeWork2_1721030651\\Bai4_HomeWork2_1721030651.csproj|solutionrelative:bai4_homework2_1721030651\\models\\district.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AA887F39-E2A0-4BB1-91C7-6CF40AB532FB}|Bai4_HomeWork2_1721030651\\Bai4_HomeWork2_1721030651.csproj|c:\\users\\dinhl\\documents\\github\\ocean_apiclass\\bai4_homework2_1721030651\\bai4_homework2_1721030651\\models\\country.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AA887F39-E2A0-4BB1-91C7-6CF40AB532FB}|Bai4_HomeWork2_1721030651\\Bai4_HomeWork2_1721030651.csproj|solutionrelative:bai4_homework2_1721030651\\models\\country.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AA887F39-E2A0-4BB1-91C7-6CF40AB532FB}|Bai4_HomeWork2_1721030651\\Bai4_HomeWork2_1721030651.csproj|c:\\users\\dinhl\\documents\\github\\ocean_apiclass\\bai4_homework2_1721030651\\bai4_homework2_1721030651\\models\\banktype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AA887F39-E2A0-4BB1-91C7-6CF40AB532FB}|Bai4_HomeWork2_1721030651\\Bai4_HomeWork2_1721030651.csproj|solutionrelative:bai4_homework2_1721030651\\models\\banktype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AA887F39-E2A0-4BB1-91C7-6CF40AB532FB}|Bai4_HomeWork2_1721030651\\Bai4_HomeWork2_1721030651.csproj|c:\\users\\dinhl\\documents\\github\\ocean_apiclass\\bai4_homework2_1721030651\\bai4_homework2_1721030651\\models\\bank.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AA887F39-E2A0-4BB1-91C7-6CF40AB532FB}|Bai4_HomeWork2_1721030651\\Bai4_HomeWork2_1721030651.csproj|solutionrelative:bai4_homework2_1721030651\\models\\bank.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AA887F39-E2A0-4BB1-91C7-6CF40AB532FB}|Bai4_HomeWork2_1721030651\\Bai4_HomeWork2_1721030651.csproj|c:\\users\\dinhl\\documents\\github\\ocean_apiclass\\bai4_homework2_1721030651\\bai4_homework2_1721030651\\services\\automapperprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AA887F39-E2A0-4BB1-91C7-6CF40AB532FB}|Bai4_HomeWork2_1721030651\\Bai4_HomeWork2_1721030651.csproj|solutionrelative:bai4_homework2_1721030651\\services\\automapperprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AA887F39-E2A0-4BB1-91C7-6CF40AB532FB}|Bai4_HomeWork2_1721030651\\Bai4_HomeWork2_1721030651.csproj|c:\\users\\dinhl\\documents\\github\\ocean_apiclass\\bai4_homework2_1721030651\\bai4_homework2_1721030651\\controllers\\bai2\\first_approach\\countrycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AA887F39-E2A0-4BB1-91C7-6CF40AB532FB}|Bai4_HomeWork2_1721030651\\Bai4_HomeWork2_1721030651.csproj|solutionrelative:bai4_homework2_1721030651\\controllers\\bai2\\first_approach\\countrycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AA887F39-E2A0-4BB1-91C7-6CF40AB532FB}|Bai4_HomeWork2_1721030651\\Bai4_HomeWork2_1721030651.csproj|c:\\users\\dinhl\\documents\\github\\ocean_apiclass\\bai4_homework2_1721030651\\bai4_homework2_1721030651\\controllers\\bai2\\first_approach\\wardcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AA887F39-E2A0-4BB1-91C7-6CF40AB532FB}|Bai4_HomeWork2_1721030651\\Bai4_HomeWork2_1721030651.csproj|solutionrelative:bai4_homework2_1721030651\\controllers\\bai2\\first_approach\\wardcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AA887F39-E2A0-4BB1-91C7-6CF40AB532FB}|Bai4_HomeWork2_1721030651\\Bai4_HomeWork2_1721030651.csproj|c:\\users\\dinhl\\documents\\github\\ocean_apiclass\\bai4_homework2_1721030651\\bai4_homework2_1721030651\\controllers\\bai2\\first_approach\\provincecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AA887F39-E2A0-4BB1-91C7-6CF40AB532FB}|Bai4_HomeWork2_1721030651\\Bai4_HomeWork2_1721030651.csproj|solutionrelative:bai4_homework2_1721030651\\controllers\\bai2\\first_approach\\provincecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AA887F39-E2A0-4BB1-91C7-6CF40AB532FB}|Bai4_HomeWork2_1721030651\\Bai4_HomeWork2_1721030651.csproj|c:\\users\\dinhl\\documents\\github\\ocean_apiclass\\bai4_homework2_1721030651\\bai4_homework2_1721030651\\controllers\\bai2\\first_approach\\districtcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AA887F39-E2A0-4BB1-91C7-6CF40AB532FB}|Bai4_HomeWork2_1721030651\\Bai4_HomeWork2_1721030651.csproj|solutionrelative:bai4_homework2_1721030651\\controllers\\bai2\\first_approach\\districtcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AA887F39-E2A0-4BB1-91C7-6CF40AB532FB}|Bai4_HomeWork2_1721030651\\Bai4_HomeWork2_1721030651.csproj|c:\\users\\dinhl\\documents\\github\\ocean_apiclass\\bai4_homework2_1721030651\\bai4_homework2_1721030651\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{AA887F39-E2A0-4BB1-91C7-6CF40AB532FB}|Bai4_HomeWork2_1721030651\\Bai4_HomeWork2_1721030651.csproj|solutionrelative:bai4_homework2_1721030651\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AA887F39-E2A0-4BB1-91C7-6CF40AB532FB}|Bai4_HomeWork2_1721030651\\Bai4_HomeWork2_1721030651.csproj|c:\\users\\dinhl\\documents\\github\\ocean_apiclass\\bai4_homework2_1721030651\\bai4_homework2_1721030651\\data\\genearalcatalogcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AA887F39-E2A0-4BB1-91C7-6CF40AB532FB}|Bai4_HomeWork2_1721030651\\Bai4_HomeWork2_1721030651.csproj|solutionrelative:bai4_homework2_1721030651\\data\\genearalcatalogcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AA887F39-E2A0-4BB1-91C7-6CF40AB532FB}|Bai4_HomeWork2_1721030651\\Bai4_HomeWork2_1721030651.csproj|c:\\users\\dinhl\\documents\\github\\ocean_apiclass\\bai4_homework2_1721030651\\bai4_homework2_1721030651\\bai4_homework2_1721030651.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{AA887F39-E2A0-4BB1-91C7-6CF40AB532FB}|Bai4_HomeWork2_1721030651\\Bai4_HomeWork2_1721030651.csproj|solutionrelative:bai4_homework2_1721030651\\bai4_homework2_1721030651.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AA887F39-E2A0-4BB1-91C7-6CF40AB532FB}|Bai4_HomeWork2_1721030651\\Bai4_HomeWork2_1721030651.csproj|c:\\users\\dinhl\\documents\\github\\ocean_apiclass\\bai4_homework2_1721030651\\bai4_homework2_1721030651\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AA887F39-E2A0-4BB1-91C7-6CF40AB532FB}|Bai4_HomeWork2_1721030651\\Bai4_HomeWork2_1721030651.csproj|solutionrelative:bai4_homework2_1721030651\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\dinhl\\Documents\\Github\\Ocean_apiClass\\Bai4_HomeWork2_1721030651\\Bai4_HomeWork2_1721030651\\Program.cs",
+              "RelativeDocumentMoniker": "Bai4_HomeWork2_1721030651\\Program.cs",
+              "ToolTip": "C:\\Users\\dinhl\\Documents\\Github\\Ocean_apiClass\\Bai4_HomeWork2_1721030651\\Bai4_HomeWork2_1721030651\\Program.cs*",
+              "RelativeToolTip": "Bai4_HomeWork2_1721030651\\Program.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-01T14:34:43.522Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IGenericRepository.cs",
+              "DocumentMoniker": "C:\\Users\\dinhl\\Documents\\Github\\Ocean_apiClass\\Bai4_HomeWork2_1721030651\\Bai4_HomeWork2_1721030651\\Repository\\Bai2\\Second_Approach\\IGenericRepository.cs",
+              "RelativeDocumentMoniker": "Bai4_HomeWork2_1721030651\\Repository\\Bai2\\Second_Approach\\IGenericRepository.cs",
+              "ToolTip": "C:\\Users\\dinhl\\Documents\\Github\\Ocean_apiClass\\Bai4_HomeWork2_1721030651\\Bai4_HomeWork2_1721030651\\Repository\\Bai2\\Second_Approach\\IGenericRepository.cs*",
+              "RelativeToolTip": "Bai4_HomeWork2_1721030651\\Repository\\Bai2\\Second_Approach\\IGenericRepository.cs*",
+              "ViewState": "AgIAACYAAAAAAAAAAAAmwBoAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-01T14:53:09.647Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CountryService.cs",
+              "DocumentMoniker": "C:\\Users\\dinhl\\Documents\\Github\\Ocean_apiClass\\Bai4_HomeWork2_1721030651\\Bai4_HomeWork2_1721030651\\Repository\\Bai2\\First_Approach\\CountryService.cs",
+              "RelativeDocumentMoniker": "Bai4_HomeWork2_1721030651\\Repository\\Bai2\\First_Approach\\CountryService.cs",
+              "ToolTip": "C:\\Users\\dinhl\\Documents\\Github\\Ocean_apiClass\\Bai4_HomeWork2_1721030651\\Bai4_HomeWork2_1721030651\\Repository\\Bai2\\First_Approach\\CountryService.cs*",
+              "RelativeToolTip": "Bai4_HomeWork2_1721030651\\Repository\\Bai2\\First_Approach\\CountryService.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-01T14:47:20.321Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "DistrictService.cs",
+              "DocumentMoniker": "C:\\Users\\dinhl\\Documents\\Github\\Ocean_apiClass\\Bai4_HomeWork2_1721030651\\Bai4_HomeWork2_1721030651\\Repository\\Bai2\\First_Approach\\DistrictService.cs",
+              "RelativeDocumentMoniker": "Bai4_HomeWork2_1721030651\\Repository\\Bai2\\First_Approach\\DistrictService.cs",
+              "ToolTip": "C:\\Users\\dinhl\\Documents\\Github\\Ocean_apiClass\\Bai4_HomeWork2_1721030651\\Bai4_HomeWork2_1721030651\\Repository\\Bai2\\First_Approach\\DistrictService.cs*",
+              "RelativeToolTip": "Bai4_HomeWork2_1721030651\\Repository\\Bai2\\First_Approach\\DistrictService.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-01T14:49:08.801Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IRepository.cs",
+              "DocumentMoniker": "C:\\Users\\dinhl\\Documents\\Github\\Ocean_apiClass\\Bai4_HomeWork2_1721030651\\Bai4_HomeWork2_1721030651\\Repository\\Bai2\\First_Approach\\IRepository.cs",
+              "RelativeDocumentMoniker": "Bai4_HomeWork2_1721030651\\Repository\\Bai2\\First_Approach\\IRepository.cs",
+              "ToolTip": "C:\\Users\\dinhl\\Documents\\Github\\Ocean_apiClass\\Bai4_HomeWork2_1721030651\\Bai4_HomeWork2_1721030651\\Repository\\Bai2\\First_Approach\\IRepository.cs*",
+              "RelativeToolTip": "Bai4_HomeWork2_1721030651\\Repository\\Bai2\\First_Approach\\IRepository.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-01T14:50:02.162Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ProvinceService.cs",
+              "DocumentMoniker": "C:\\Users\\dinhl\\Documents\\Github\\Ocean_apiClass\\Bai4_HomeWork2_1721030651\\Bai4_HomeWork2_1721030651\\Repository\\Bai2\\First_Approach\\ProvinceService.cs",
+              "RelativeDocumentMoniker": "Bai4_HomeWork2_1721030651\\Repository\\Bai2\\First_Approach\\ProvinceService.cs",
+              "ToolTip": "C:\\Users\\dinhl\\Documents\\Github\\Ocean_apiClass\\Bai4_HomeWork2_1721030651\\Bai4_HomeWork2_1721030651\\Repository\\Bai2\\First_Approach\\ProvinceService.cs*",
+              "RelativeToolTip": "Bai4_HomeWork2_1721030651\\Repository\\Bai2\\First_Approach\\ProvinceService.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-01T14:50:07.788Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "WardService.cs",
+              "DocumentMoniker": "C:\\Users\\dinhl\\Documents\\Github\\Ocean_apiClass\\Bai4_HomeWork2_1721030651\\Bai4_HomeWork2_1721030651\\Repository\\Bai2\\First_Approach\\WardService.cs",
+              "RelativeDocumentMoniker": "Bai4_HomeWork2_1721030651\\Repository\\Bai2\\First_Approach\\WardService.cs",
+              "ToolTip": "C:\\Users\\dinhl\\Documents\\Github\\Ocean_apiClass\\Bai4_HomeWork2_1721030651\\Bai4_HomeWork2_1721030651\\Repository\\Bai2\\First_Approach\\WardService.cs*",
+              "RelativeToolTip": "Bai4_HomeWork2_1721030651\\Repository\\Bai2\\First_Approach\\WardService.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-01T14:50:33.819Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "BankTypeController.cs",
+              "DocumentMoniker": "C:\\Users\\dinhl\\Documents\\Github\\Ocean_apiClass\\Bai4_HomeWork2_1721030651\\Bai4_HomeWork2_1721030651\\Controllers\\Bai2\\Simple\\BankTypeController.cs",
+              "RelativeDocumentMoniker": "Bai4_HomeWork2_1721030651\\Controllers\\Bai2\\Simple\\BankTypeController.cs",
+              "ToolTip": "C:\\Users\\dinhl\\Documents\\Github\\Ocean_apiClass\\Bai4_HomeWork2_1721030651\\Bai4_HomeWork2_1721030651\\Controllers\\Bai2\\Simple\\BankTypeController.cs*",
+              "RelativeToolTip": "Bai4_HomeWork2_1721030651\\Controllers\\Bai2\\Simple\\BankTypeController.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-01T15:08:06.51Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "BankController.cs",
+              "DocumentMoniker": "C:\\Users\\dinhl\\Documents\\Github\\Ocean_apiClass\\Bai4_HomeWork2_1721030651\\Bai4_HomeWork2_1721030651\\Controllers\\Bai2\\Simple\\BankController.cs",
+              "RelativeDocumentMoniker": "Bai4_HomeWork2_1721030651\\Controllers\\Bai2\\Simple\\BankController.cs",
+              "ToolTip": "C:\\Users\\dinhl\\Documents\\Github\\Ocean_apiClass\\Bai4_HomeWork2_1721030651\\Bai4_HomeWork2_1721030651\\Controllers\\Bai2\\Simple\\BankController.cs*",
+              "RelativeToolTip": "Bai4_HomeWork2_1721030651\\Controllers\\Bai2\\Simple\\BankController.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-01T15:06:29.413Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "IBankService.cs",
+              "DocumentMoniker": "C:\\Users\\dinhl\\Documents\\Github\\Ocean_apiClass\\Bai4_HomeWork2_1721030651\\Bai4_HomeWork2_1721030651\\Repository\\Bai2\\Simple\\IBankService.cs",
+              "RelativeDocumentMoniker": "Bai4_HomeWork2_1721030651\\Repository\\Bai2\\Simple\\IBankService.cs",
+              "ToolTip": "C:\\Users\\dinhl\\Documents\\Github\\Ocean_apiClass\\Bai4_HomeWork2_1721030651\\Bai4_HomeWork2_1721030651\\Repository\\Bai2\\Simple\\IBankService.cs",
+              "RelativeToolTip": "Bai4_HomeWork2_1721030651\\Repository\\Bai2\\Simple\\IBankService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-01T14:53:42.032Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "SchoolController.cs",
+              "DocumentMoniker": "C:\\Users\\dinhl\\Documents\\Github\\Ocean_apiClass\\Bai4_HomeWork2_1721030651\\Bai4_HomeWork2_1721030651\\Controllers\\Bai2\\Second_Approach\\SchoolController.cs",
+              "RelativeDocumentMoniker": "Bai4_HomeWork2_1721030651\\Controllers\\Bai2\\Second_Approach\\SchoolController.cs",
+              "ToolTip": "C:\\Users\\dinhl\\Documents\\Github\\Ocean_apiClass\\Bai4_HomeWork2_1721030651\\Bai4_HomeWork2_1721030651\\Controllers\\Bai2\\Second_Approach\\SchoolController.cs*",
+              "RelativeToolTip": "Bai4_HomeWork2_1721030651\\Controllers\\Bai2\\Second_Approach\\SchoolController.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-01T15:06:08.004Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ReligionController.cs",
+              "DocumentMoniker": "C:\\Users\\dinhl\\Documents\\Github\\Ocean_apiClass\\Bai4_HomeWork2_1721030651\\Bai4_HomeWork2_1721030651\\Controllers\\Bai2\\Second_Approach\\ReligionController.cs",
+              "RelativeDocumentMoniker": "Bai4_HomeWork2_1721030651\\Controllers\\Bai2\\Second_Approach\\ReligionController.cs",
+              "ToolTip": "C:\\Users\\dinhl\\Documents\\Github\\Ocean_apiClass\\Bai4_HomeWork2_1721030651\\Bai4_HomeWork2_1721030651\\Controllers\\Bai2\\Second_Approach\\ReligionController.cs*",
+              "RelativeToolTip": "Bai4_HomeWork2_1721030651\\Controllers\\Bai2\\Second_Approach\\ReligionController.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-01T15:05:47.355Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Ward.cs",
+              "DocumentMoniker": "C:\\Users\\dinhl\\Documents\\Github\\Ocean_apiClass\\Bai4_HomeWork2_1721030651\\Bai4_HomeWork2_1721030651\\Models\\Ward.cs",
+              "RelativeDocumentMoniker": "Bai4_HomeWork2_1721030651\\Models\\Ward.cs",
+              "ToolTip": "C:\\Users\\dinhl\\Documents\\Github\\Ocean_apiClass\\Bai4_HomeWork2_1721030651\\Bai4_HomeWork2_1721030651\\Models\\Ward.cs",
+              "RelativeToolTip": "Bai4_HomeWork2_1721030651\\Models\\Ward.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-01T15:05:38.682Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "School.cs",
+              "DocumentMoniker": "C:\\Users\\dinhl\\Documents\\Github\\Ocean_apiClass\\Bai4_HomeWork2_1721030651\\Bai4_HomeWork2_1721030651\\Models\\School.cs",
+              "RelativeDocumentMoniker": "Bai4_HomeWork2_1721030651\\Models\\School.cs",
+              "ToolTip": "C:\\Users\\dinhl\\Documents\\Github\\Ocean_apiClass\\Bai4_HomeWork2_1721030651\\Bai4_HomeWork2_1721030651\\Models\\School.cs*",
+              "RelativeToolTip": "Bai4_HomeWork2_1721030651\\Models\\School.cs*",
+              "ViewState": "AgIAACIAAAAAAAAAAAA/wC0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-01T15:04:56.985Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Religion.cs",
+              "DocumentMoniker": "C:\\Users\\dinhl\\Documents\\Github\\Ocean_apiClass\\Bai4_HomeWork2_1721030651\\Bai4_HomeWork2_1721030651\\Models\\Religion.cs",
+              "RelativeDocumentMoniker": "Bai4_HomeWork2_1721030651\\Models\\Religion.cs",
+              "ToolTip": "C:\\Users\\dinhl\\Documents\\Github\\Ocean_apiClass\\Bai4_HomeWork2_1721030651\\Bai4_HomeWork2_1721030651\\Models\\Religion.cs*",
+              "RelativeToolTip": "Bai4_HomeWork2_1721030651\\Models\\Religion.cs*",
+              "ViewState": "AgIAABgAAAAAAAAAAAAIwC8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-01T15:04:20.969Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "IBankTypeService.cs",
+              "DocumentMoniker": "C:\\Users\\dinhl\\Documents\\Github\\Ocean_apiClass\\Bai4_HomeWork2_1721030651\\Bai4_HomeWork2_1721030651\\Repository\\Bai2\\Simple\\IBankTypeService.cs",
+              "RelativeDocumentMoniker": "Bai4_HomeWork2_1721030651\\Repository\\Bai2\\Simple\\IBankTypeService.cs",
+              "ToolTip": "C:\\Users\\dinhl\\Documents\\Github\\Ocean_apiClass\\Bai4_HomeWork2_1721030651\\Bai4_HomeWork2_1721030651\\Repository\\Bai2\\Simple\\IBankTypeService.cs*",
+              "RelativeToolTip": "Bai4_HomeWork2_1721030651\\Repository\\Bai2\\Simple\\IBankTypeService.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-01T14:54:27.881Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Province.cs",
+              "DocumentMoniker": "C:\\Users\\dinhl\\Documents\\Github\\Ocean_apiClass\\Bai4_HomeWork2_1721030651\\Bai4_HomeWork2_1721030651\\Models\\Province.cs",
+              "RelativeDocumentMoniker": "Bai4_HomeWork2_1721030651\\Models\\Province.cs",
+              "ToolTip": "C:\\Users\\dinhl\\Documents\\Github\\Ocean_apiClass\\Bai4_HomeWork2_1721030651\\Bai4_HomeWork2_1721030651\\Models\\Province.cs",
+              "RelativeToolTip": "Bai4_HomeWork2_1721030651\\Models\\Province.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-01T15:04:09.648Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Folk.cs",
+              "DocumentMoniker": "C:\\Users\\dinhl\\Documents\\Github\\Ocean_apiClass\\Bai4_HomeWork2_1721030651\\Bai4_HomeWork2_1721030651\\Models\\Folk.cs",
+              "RelativeDocumentMoniker": "Bai4_HomeWork2_1721030651\\Models\\Folk.cs",
+              "ToolTip": "C:\\Users\\dinhl\\Documents\\Github\\Ocean_apiClass\\Bai4_HomeWork2_1721030651\\Bai4_HomeWork2_1721030651\\Models\\Folk.cs*",
+              "RelativeToolTip": "Bai4_HomeWork2_1721030651\\Models\\Folk.cs*",
+              "ViewState": "AgIAABAAAAAAAAAAAAAgwC4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-01T15:04:02.28Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "District.cs",
+              "DocumentMoniker": "C:\\Users\\dinhl\\Documents\\Github\\Ocean_apiClass\\Bai4_HomeWork2_1721030651\\Bai4_HomeWork2_1721030651\\Models\\District.cs",
+              "RelativeDocumentMoniker": "Bai4_HomeWork2_1721030651\\Models\\District.cs",
+              "ToolTip": "C:\\Users\\dinhl\\Documents\\Github\\Ocean_apiClass\\Bai4_HomeWork2_1721030651\\Bai4_HomeWork2_1721030651\\Models\\District.cs",
+              "RelativeToolTip": "Bai4_HomeWork2_1721030651\\Models\\District.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAA7wAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-01T15:03:59.743Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Country.cs",
+              "DocumentMoniker": "C:\\Users\\dinhl\\Documents\\Github\\Ocean_apiClass\\Bai4_HomeWork2_1721030651\\Bai4_HomeWork2_1721030651\\Models\\Country.cs",
+              "RelativeDocumentMoniker": "Bai4_HomeWork2_1721030651\\Models\\Country.cs",
+              "ToolTip": "C:\\Users\\dinhl\\Documents\\Github\\Ocean_apiClass\\Bai4_HomeWork2_1721030651\\Bai4_HomeWork2_1721030651\\Models\\Country.cs",
+              "RelativeToolTip": "Bai4_HomeWork2_1721030651\\Models\\Country.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAA/wAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-01T15:03:57.128Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "FolkController.cs",
+              "DocumentMoniker": "C:\\Users\\dinhl\\Documents\\Github\\Ocean_apiClass\\Bai4_HomeWork2_1721030651\\Bai4_HomeWork2_1721030651\\Controllers\\Bai2\\Second_Approach\\FolkController.cs",
+              "RelativeDocumentMoniker": "Bai4_HomeWork2_1721030651\\Controllers\\Bai2\\Second_Approach\\FolkController.cs",
+              "ToolTip": "C:\\Users\\dinhl\\Documents\\Github\\Ocean_apiClass\\Bai4_HomeWork2_1721030651\\Bai4_HomeWork2_1721030651\\Controllers\\Bai2\\Second_Approach\\FolkController.cs*",
+              "RelativeToolTip": "Bai4_HomeWork2_1721030651\\Controllers\\Bai2\\Second_Approach\\FolkController.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-01T15:02:20.157Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "BankType.cs",
+              "DocumentMoniker": "C:\\Users\\dinhl\\Documents\\Github\\Ocean_apiClass\\Bai4_HomeWork2_1721030651\\Bai4_HomeWork2_1721030651\\Models\\BankType.cs",
+              "RelativeDocumentMoniker": "Bai4_HomeWork2_1721030651\\Models\\BankType.cs",
+              "ToolTip": "C:\\Users\\dinhl\\Documents\\Github\\Ocean_apiClass\\Bai4_HomeWork2_1721030651\\Bai4_HomeWork2_1721030651\\Models\\BankType.cs*",
+              "RelativeToolTip": "Bai4_HomeWork2_1721030651\\Models\\BankType.cs*",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAgwC0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-01T15:03:43.982Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Bank.cs",
+              "DocumentMoniker": "C:\\Users\\dinhl\\Documents\\Github\\Ocean_apiClass\\Bai4_HomeWork2_1721030651\\Bai4_HomeWork2_1721030651\\Models\\Bank.cs",
+              "RelativeDocumentMoniker": "Bai4_HomeWork2_1721030651\\Models\\Bank.cs",
+              "ToolTip": "C:\\Users\\dinhl\\Documents\\Github\\Ocean_apiClass\\Bai4_HomeWork2_1721030651\\Bai4_HomeWork2_1721030651\\Models\\Bank.cs*",
+              "RelativeToolTip": "Bai4_HomeWork2_1721030651\\Models\\Bank.cs*",
+              "ViewState": "AgIAABQAAAAAAAAAAAAkwDMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-01T15:03:32.792Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "WardController.cs",
+              "DocumentMoniker": "C:\\Users\\dinhl\\Documents\\Github\\Ocean_apiClass\\Bai4_HomeWork2_1721030651\\Bai4_HomeWork2_1721030651\\Controllers\\Bai2\\First_Approach\\WardController.cs",
+              "RelativeDocumentMoniker": "Bai4_HomeWork2_1721030651\\Controllers\\Bai2\\First_Approach\\WardController.cs",
+              "ToolTip": "C:\\Users\\dinhl\\Documents\\Github\\Ocean_apiClass\\Bai4_HomeWork2_1721030651\\Bai4_HomeWork2_1721030651\\Controllers\\Bai2\\First_Approach\\WardController.cs*",
+              "RelativeToolTip": "Bai4_HomeWork2_1721030651\\Controllers\\Bai2\\First_Approach\\WardController.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-01T15:01:56.765Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "ProvinceController.cs",
+              "DocumentMoniker": "C:\\Users\\dinhl\\Documents\\Github\\Ocean_apiClass\\Bai4_HomeWork2_1721030651\\Bai4_HomeWork2_1721030651\\Controllers\\Bai2\\First_Approach\\ProvinceController.cs",
+              "RelativeDocumentMoniker": "Bai4_HomeWork2_1721030651\\Controllers\\Bai2\\First_Approach\\ProvinceController.cs",
+              "ToolTip": "C:\\Users\\dinhl\\Documents\\Github\\Ocean_apiClass\\Bai4_HomeWork2_1721030651\\Bai4_HomeWork2_1721030651\\Controllers\\Bai2\\First_Approach\\ProvinceController.cs*",
+              "RelativeToolTip": "Bai4_HomeWork2_1721030651\\Controllers\\Bai2\\First_Approach\\ProvinceController.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-01T15:01:33.82Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "DistrictController.cs",
+              "DocumentMoniker": "C:\\Users\\dinhl\\Documents\\Github\\Ocean_apiClass\\Bai4_HomeWork2_1721030651\\Bai4_HomeWork2_1721030651\\Controllers\\Bai2\\First_Approach\\DistrictController.cs",
+              "RelativeDocumentMoniker": "Bai4_HomeWork2_1721030651\\Controllers\\Bai2\\First_Approach\\DistrictController.cs",
+              "ToolTip": "C:\\Users\\dinhl\\Documents\\Github\\Ocean_apiClass\\Bai4_HomeWork2_1721030651\\Bai4_HomeWork2_1721030651\\Controllers\\Bai2\\First_Approach\\DistrictController.cs*",
+              "RelativeToolTip": "Bai4_HomeWork2_1721030651\\Controllers\\Bai2\\First_Approach\\DistrictController.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-01T15:01:04.191Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "AutoMapperProfile.cs",
+              "DocumentMoniker": "C:\\Users\\dinhl\\Documents\\Github\\Ocean_apiClass\\Bai4_HomeWork2_1721030651\\Bai4_HomeWork2_1721030651\\Services\\AutoMapperProfile.cs",
+              "RelativeDocumentMoniker": "Bai4_HomeWork2_1721030651\\Services\\AutoMapperProfile.cs",
+              "ToolTip": "C:\\Users\\dinhl\\Documents\\Github\\Ocean_apiClass\\Bai4_HomeWork2_1721030651\\Bai4_HomeWork2_1721030651\\Services\\AutoMapperProfile.cs*",
+              "RelativeToolTip": "Bai4_HomeWork2_1721030651\\Services\\AutoMapperProfile.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-01T14:58:15.199Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "CountryController.cs",
+              "DocumentMoniker": "C:\\Users\\dinhl\\Documents\\Github\\Ocean_apiClass\\Bai4_HomeWork2_1721030651\\Bai4_HomeWork2_1721030651\\Controllers\\Bai2\\First_Approach\\CountryController.cs",
+              "RelativeDocumentMoniker": "Bai4_HomeWork2_1721030651\\Controllers\\Bai2\\First_Approach\\CountryController.cs",
+              "ToolTip": "C:\\Users\\dinhl\\Documents\\Github\\Ocean_apiClass\\Bai4_HomeWork2_1721030651\\Bai4_HomeWork2_1721030651\\Controllers\\Bai2\\First_Approach\\CountryController.cs*",
+              "RelativeToolTip": "Bai4_HomeWork2_1721030651\\Controllers\\Bai2\\First_Approach\\CountryController.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-01T14:57:30.053Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\dinhl\\Documents\\Github\\Ocean_apiClass\\Bai4_HomeWork2_1721030651\\Bai4_HomeWork2_1721030651\\appsettings.json",
+              "RelativeDocumentMoniker": "Bai4_HomeWork2_1721030651\\appsettings.json",
+              "ToolTip": "C:\\Users\\dinhl\\Documents\\Github\\Ocean_apiClass\\Bai4_HomeWork2_1721030651\\Bai4_HomeWork2_1721030651\\appsettings.json*",
+              "RelativeToolTip": "Bai4_HomeWork2_1721030651\\appsettings.json*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAABOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-10-01T14:34:42.022Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "Bai4_HomeWork2_1721030651.http",
+              "DocumentMoniker": "C:\\Users\\dinhl\\Documents\\Github\\Ocean_apiClass\\Bai4_HomeWork2_1721030651\\Bai4_HomeWork2_1721030651\\Bai4_HomeWork2_1721030651.http",
+              "RelativeDocumentMoniker": "Bai4_HomeWork2_1721030651\\Bai4_HomeWork2_1721030651.http",
+              "ToolTip": "C:\\Users\\dinhl\\Documents\\Github\\Ocean_apiClass\\Bai4_HomeWork2_1721030651\\Bai4_HomeWork2_1721030651\\Bai4_HomeWork2_1721030651.http",
+              "RelativeToolTip": "Bai4_HomeWork2_1721030651\\Bai4_HomeWork2_1721030651.http",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2024-10-01T14:34:44.238Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "GenearalCatalogContext.cs",
+              "DocumentMoniker": "C:\\Users\\dinhl\\Documents\\Github\\Ocean_apiClass\\Bai4_HomeWork2_1721030651\\Bai4_HomeWork2_1721030651\\Data\\GenearalCatalogContext.cs",
+              "RelativeDocumentMoniker": "Bai4_HomeWork2_1721030651\\Data\\GenearalCatalogContext.cs",
+              "ToolTip": "C:\\Users\\dinhl\\Documents\\Github\\Ocean_apiClass\\Bai4_HomeWork2_1721030651\\Bai4_HomeWork2_1721030651\\Data\\GenearalCatalogContext.cs",
+              "RelativeToolTip": "Bai4_HomeWork2_1721030651\\Data\\GenearalCatalogContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-01T14:40:45.86Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3db98ce8-14f0-4b05-9b6a-b9dbe8fa94ab}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{74946827-37a0-11d2-a273-00c04f8ef4ff}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "WeatherForecastController.cs",
+              "DocumentMoniker": "C:\\Users\\dinhl\\Documents\\Github\\Ocean_apiClass\\Bai4_HomeWork2_1721030651\\Bai4_HomeWork2_1721030651\\Controllers\\WeatherForecastController.cs",
+              "RelativeDocumentMoniker": "Bai4_HomeWork2_1721030651\\Controllers\\WeatherForecastController.cs",
+              "ToolTip": "C:\\Users\\dinhl\\Documents\\Github\\Ocean_apiClass\\Bai4_HomeWork2_1721030651\\Bai4_HomeWork2_1721030651\\Controllers\\WeatherForecastController.cs",
+              "RelativeToolTip": "Bai4_HomeWork2_1721030651\\Controllers\\WeatherForecastController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-01T14:24:55.036Z"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 1642,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{4a9b7e51-aa16-11d0-a8c5-00a0c921a4d2}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

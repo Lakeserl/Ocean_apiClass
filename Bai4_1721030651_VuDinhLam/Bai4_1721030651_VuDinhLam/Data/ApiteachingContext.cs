@@ -502,9 +502,4 @@ public partial class ApiteachingContext : DbContext
     }
 
     partial void OnModelCreatingPartial(ModelBuilder modelBuilder);
-
-    public bool IsAddressExist(int? id)
-    {
-
-    }
 }
